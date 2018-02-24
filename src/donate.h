@@ -31,8 +31,8 @@
  * Percentage of your hashing power that you want to donate to the developer, can be 0 if you don't want to do that.
  *
  * If you plan on changing this setting to 0 please consider making a one off donation to my wallet:
- * XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
- * BTC: 1P7ujsXeX7GxQwHNnJsRMgAdNkFZmNVqJT
+ * XMR: 4ALcw9nTAStZSshoWVUJakZ6tLwTDhixhQUQNJkCn4t3fG3MMK19WZM44HnQRvjqmz4LkkA8t565v7iBwQXx2r34HNroSAZ+8a7fbb3cdbed66110fc55a4b699dbc4757ba1a1b4bdee0cba7049b6eb0ae348b
+ * BTC: 16h9mBrmfHdo6Ks3q6pZrSWkZMuFJHiiwa
  *
  * How it works:
  * First pool connection (up to 256 workers) always without fee.
@@ -41,7 +41,7 @@
  * Choice next donation time, with overime compensation. In proxy no way to use precise donation time.
  * You can check actual donation via API.
  */
-constexpr const int kDonateLevel = 2;
+constexpr const int kDonateLevel = 1;
 
 
 #endif /* __DONATE_H__ */
